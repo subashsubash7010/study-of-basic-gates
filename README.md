@@ -68,10 +68,14 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:
  Name: SUBASH M
+ 
  RegisterNumber: 212224220109
 
  
  ```
+
+
+
   module Logic_Gates(a, b, c1, c2, c3, c4, c5,c6 ,c7);
  input a, b;
  output c1, c2, c3, c4, c5, c6, c7;
@@ -89,6 +93,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Logic symbol & Truthtable**
 
 
+  
+   
    ![image](https://github.com/user-attachments/assets/d7614eb9-fe61-44dc-ade1-c9ea5c2f4bee)
    ![image](https://github.com/user-attachments/assets/7f61d4c3-b76f-4f7c-858c-d836bfec126f)
    
